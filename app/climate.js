@@ -3,7 +3,6 @@ import climateImage from '../assets/images/climate.png';
 import { MaterialCommunityIcons, Entypo } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
 import { useState } from 'react';
-import { StatusBar } from 'expo-status-bar';
 
 const ClimateScreen = () => {
   const router = useRouter();

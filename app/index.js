@@ -3,7 +3,6 @@ import {
   FontAwesome,
   Entypo,
   MaterialCommunityIcons,
-  MaterialIcons,
   FontAwesome5,
   Ionicons,
 } from '@expo/vector-icons';
