@@ -27,10 +27,9 @@ npx expo start
 ```
 
 ## 🚀 UI
-Home
-![alt text](https://github.com/nikul6/TeslaApp/blob/master/assets/AppImages/HomeUI.png)
-Climate
-![alt text](https://github.com/nikul6/TeslaApp/blob/master/assets/AppImages/ClimateUI.png)
+Home             |  Climate     
+-------------------------|-------------------------
+![alt text](https://github.com/nikul6/TeslaApp/blob/master/assets/AppImages/HomeUI.png)     |       ![alt text](https://github.com/nikul6/TeslaApp/blob/master/assets/AppImages/ClimateUI.png)
 
 
 ## 📝 Notes
